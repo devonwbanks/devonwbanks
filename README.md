@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Devon Banks!
+- 📚 I’m currently studying a bachelors of Science majoring in Mathematics and Statistics.
+- 📖 My interests lie in anything related to differential equations, regression analysis, as well as the collection and visualization of data.
