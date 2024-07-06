@@ -1,6 +1,6 @@
 # About Me:
 - 👋 Hi, I’m **Devon Banks**!
-- 📚 I’m currently studying a *Bachelor of Science* majoring in Mathematics and Statistics at the **University of Auckland**.
+- 📚 I’m currently studying a *Bachelor of Science* majoring in Mathematics and Statistics whilst doing a specialisation in Data Science at the **University of Auckland**.
 
 ## Interests:
 📖 My interests lie in anything related to:
